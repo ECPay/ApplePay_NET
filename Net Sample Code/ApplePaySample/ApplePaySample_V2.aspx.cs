@@ -116,7 +116,7 @@ public partial class ApplePaySample_V2 : System.Web.UI.Page
         postData.Add("MerchantTradeNo", _MerchantTradeNo);
         postData.Add("MerchantTradeDate", _MerchantTradeDate);
         postData.Add("TotalAmount", _TradeAmount);
-        postData.Add("currencyCode", _CurrencyCode);
+        postData.Add("CurrencyCode", _CurrencyCode);
         postData.Add("ItemName", _ItemName);
         postData.Add("PlatformID", _PlatformID);
         postData.Add("TradeDesc", _TradeDesc);
