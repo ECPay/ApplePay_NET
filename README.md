@@ -15,7 +15,7 @@
 
 ### 2. 申請辦法
 
-1. 商店需先申請為綠界科技的特約會員。
+1. 商店需先申請為綠界科技的特約賣家會員。
 2. 商店需自備 SSL 加密環境。
 3. 商店須擁有 Apple Developer 帳號，詳情請參考 Apple 官方說明。
 4. 付款頁畫面 UI 設計需遵循 Apple Pay Human Interface Guidelines。
